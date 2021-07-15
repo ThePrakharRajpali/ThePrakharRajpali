@@ -43,7 +43,7 @@ I'm Prakhar Rajpali, a coding enthusiast and an amateur web developer, looking f
 </a>
 
 <a href="https://expressjs.com" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
+    <img src="./expressjs.svg" alt="express" width="40" height="40"/> 
 </a> 
 
 <a href="https://www.djangoproject.com/" target="_blank"> 
