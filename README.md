@@ -6,7 +6,6 @@ I'm Prakhar Rajpali, a coding enthusiast and an amateur web developer, looking f
 
 ---
 
-<br>
 
 ## About Myself
 
@@ -20,7 +19,6 @@ I'm Prakhar Rajpali, a coding enthusiast and an amateur web developer, looking f
 
 ---
 
-<br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -126,7 +124,6 @@ I'm Prakhar Rajpali, a coding enthusiast and an amateur web developer, looking f
 
 ---
 
-<br>
 
 #### Profile Visits
 
@@ -137,8 +134,6 @@ I'm Prakhar Rajpali, a coding enthusiast and an amateur web developer, looking f
 
 
 ---
-
-<br>
 
 ### Github Stats
 
@@ -157,7 +152,5 @@ I'm Prakhar Rajpali, a coding enthusiast and an amateur web developer, looking f
 ### :mailbox: Reach me out!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Prakhar-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prakharrajpali) [![Mail Badge](https://img.shields.io/badge/-@theprakharrajpali-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/theprakharrajpali/) [![Mail Badge](https://img.shields.io/badge/-rajpaliprakhar23-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:rajpaliprakhar23@gmail.com)[![Twitter Badge](https://img.shields.io/badge/-@PrakharRajpali-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/PrakharRajpali)](https://twitter.com/PrakharRajpali)
-
-<br>
 
 ---
