@@ -1,12 +1,14 @@
 ## Hi I'm Prakhar <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
+---
+
 I'm Prakhar Rajpali, a coding enthusiast and an amateur web developer, looking for interesting projects to build. I spend my days by learning, coding and gaming.
 
-:mailbox: Reach me out!
+---
 
-[![Linkedin Badge](https://img.shields.io/badge/-Prakhar-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prakharrajpali) [![Mail Badge](https://img.shields.io/badge/-@theprakharrajpali-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/theprakharrajpali/) [![Mail Badge](https://img.shields.io/badge/-rajpaliprakhar23-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:rajpaliprakhar23@gmail.com)[![Twitter Badge](https://img.shields.io/badge/-@PrakharRajpali-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/PrakharRajpali)](https://twitter.com/PrakharRajpali)
+<br>
 
-<!-- TODO: Add last video link -->
+## About Myself
 
 - 👨‍🎓 I’m undergraduate pursuing B.Tech in Computer Science and Engineering with a minor in Product Design at Indian Institute of Technology, Guwahati.
 - 🌱 Currently learning about computer networks and basic app development.
@@ -14,6 +16,11 @@ I'm Prakhar Rajpali, a coding enthusiast and an amateur web developer, looking f
 - 🤝 I’m looking for interesting projects and internships and freelancing opportunities.
 - 📫 You can reach me at: rajpaliprakhar23@gmail.com or rprakhar@iitg.ac.in.
 - ⚡ Fun fact: I like playing video games and I am interested in entrepreneurship and startups.
+
+
+---
+
+<br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -117,15 +124,40 @@ I'm Prakhar Rajpali, a coding enthusiast and an amateur web developer, looking f
 </p>
 
 
-<br />
-<br />
+---
+
+<br>
 
 #### Profile Visits
+
+<br>
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ThePrakharRajpali.ThePrakharRajpali)
 
 
+
+---
+
+<br>
+
 ### Github Stats
+
+<br>
+
 [![Prakhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThePrakharRajpali&hide=contribs&show_icons=true&theme=tokyonight)](https://github.com/ThePrakharRajpali)
+
+<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThePrakharRajpali&theme=tokyonight&layout=compact&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
+
+
+---
+
+### :mailbox: Reach me out!
+
+[![Linkedin Badge](https://img.shields.io/badge/-Prakhar-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prakharrajpali) [![Mail Badge](https://img.shields.io/badge/-@theprakharrajpali-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/theprakharrajpali/) [![Mail Badge](https://img.shields.io/badge/-rajpaliprakhar23-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:rajpaliprakhar23@gmail.com)[![Twitter Badge](https://img.shields.io/badge/-@PrakharRajpali-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/PrakharRajpali)](https://twitter.com/PrakharRajpali)
+
+<br>
+
+---
