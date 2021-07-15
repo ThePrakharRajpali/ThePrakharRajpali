@@ -43,7 +43,7 @@ I'm Prakhar Rajpali, a coding enthusiast and an amateur web developer, looking f
 </a>
 
 <a href="https://expressjs.com" target="_blank"> 
-    <img src="./expressjs.svg" alt="express" width="40" height="40"/> 
+    <img src="./express-white-bg.png" alt="express" width="auto" height="20"/> 
 </a> 
 
 <a href="https://www.djangoproject.com/" target="_blank"> 
@@ -127,5 +127,5 @@ I'm Prakhar Rajpali, a coding enthusiast and an amateur web developer, looking f
 ### Github Stats
 [![Prakhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThePrakharRajpali&hide=contribs&show_icons=true&theme=tokyonight)](https://github.com/ThePrakharRajpali)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThePrakharRajpali&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThePrakharRajpali&theme=tokyonight&layout=compact&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
