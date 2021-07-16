@@ -129,7 +129,7 @@ I'm Prakhar Rajpali, a coding enthusiast and an amateur web developer, looking f
 
 <br>
 
-![](https://visitor-badge.glitch.me/badge?page_id=ThePrakharRajpali.ThePrakharRajpali)
+![Profile views](https://gpvc.arturio.dev/ThePrakharRajpali)
 
 
 
