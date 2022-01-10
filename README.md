@@ -10,7 +10,7 @@ I'm Prakhar Rajpali, a coding enthusiast and an amateur web developer, looking f
 ## About Myself
 
 - 👨‍🎓 I’m undergraduate pursuing B.Tech in Computer Science and Engineering with a minor in Product Design at Indian Institute of Technology, Guwahati.
-- 🌱 Currently learning about computer networks and basic app development.
+- 🌱 Currently learning about computer networks and basic development.
 - 🔭 Interested in web development, UI/UX design and Product Management.
 - 🤝 I’m looking for interesting projects and internships and freelancing opportunities.
 - 📫 You can reach me at: rajpaliprakhar23@gmail.com or rprakhar@iitg.ac.in.
